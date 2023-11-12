@@ -1,4 +1,15 @@
 <resources>
-    <string name="app_name">WeatherApp</string>
+    <string name="app_name">RGU Weather App</string>
     <string name="str_tv_message">"%.1f" Celsius</string>
+
+
+    <string name="tv_home_location">Enter a Location</string>
+    <string name="tv_home_days">How many days in advance?</string>
+    <string name="tv_home_get_forecast">Get a forecast of your current location</string>
+
+    <string name="et_home_location">Click to enter a location</string>
+    <string name="et_home_days">Click to choose days ahead</string>
+
+    <string name="btn_get_forecast">Get Forecast</string>
+    <string name="btn_get_gps">Get GPS</string>
 </resources>

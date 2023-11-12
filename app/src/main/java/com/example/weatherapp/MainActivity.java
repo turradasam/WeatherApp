@@ -6,6 +6,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+    /*
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -18,4 +19,5 @@ public class MainActivity extends AppCompatActivity {
         String text = getString(R.string.str_tv_message, hf.getTemperature());
         tv.setText(text);
     }
+     */
 }
